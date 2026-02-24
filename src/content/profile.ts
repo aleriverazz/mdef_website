@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Your Name",
+  name: "Alejandra C. Rivera Zamacona",
   title: "MDEF Portfolio",
   bio: `I'm a designer exploring the intersection of technology, ecology, and social innovation through the Master in Design for Emergent Futures at IAAC / Elisava in Barcelona.
 
