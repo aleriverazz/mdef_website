@@ -14,10 +14,10 @@ const Index = () => {
       />
 
       <div className="relative z-10 flex flex-1 flex-col items-center justify-center px-6 text-center">
-        <h1 className="mb-2 text-5xl font-bold tracking-tight md:text-7xl animate-fade-in">
+        <h1 className="mb-2 text-xl font-bold tracking-tight md:text-2xl text-primary animate-fade-in">
           {profile.name}
         </h1>
-        <p className="text-xl text-muted-foreground animate-fade-in" style={{ animationDelay: "0.1s" }}>
+        <p className="text-sm text-muted-foreground animate-fade-in" style={{ animationDelay: "0.1s" }}>
           {profile.title}
         </p>
       </div>
@@ -25,19 +25,19 @@ const Index = () => {
       <nav className="relative z-10 flex flex-col items-center gap-4 pb-12 sm:flex-row sm:gap-8 animate-fade-in" style={{ animationDelay: "0.2s" }}>
         <Link
           to="/about"
-          className="text-lg font-medium transition-colors hover:text-primary"
+          className="text-sm font-medium transition-colors hover:text-primary"
         >
           About Me
         </Link>
         <Link
           to="/journey"
-          className="text-lg font-medium transition-colors hover:text-accent"
+          className="text-sm font-medium transition-colors hover:text-accent"
         >
           Master Journey
         </Link>
         <Link
           to="/contact"
-          className="text-lg font-medium transition-colors hover:text-primary"
+          className="text-sm font-medium transition-colors hover:text-primary"
         >
           Contact
         </Link>
