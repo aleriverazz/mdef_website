@@ -12,7 +12,7 @@ const Journey = () => {
           ← Home
         </Link>
 
-        <h1 className="mb-10 text-4xl font-bold md:text-5xl">Master Journey</h1>
+        <h1 className="mb-10 text-4xl font-bold md:text-5xl" style={{ color: "#FF69B4" }}>Master Journey</h1>
 
         <div className="space-y-4">
           {terms.map((term) => (

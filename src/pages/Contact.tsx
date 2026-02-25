@@ -12,7 +12,7 @@ const Contact = () => {
           ← Home
         </Link>
 
-        <h1 className="mb-10 text-4xl font-bold md:text-5xl">Contact</h1>
+        <h1 className="mb-10 text-4xl font-bold md:text-5xl" style={{ color: "#FF69B4" }}>Contact</h1>
 
         <div className="space-y-4">
           {contactLinks.map((link) => (
