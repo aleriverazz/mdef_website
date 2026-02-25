@@ -5,8 +5,8 @@ export interface ContactLink {
 }
 
 export const contactLinks: ContactLink[] = [
-  { label: "Email", url: "mailto:your@email.com" },
-  { label: "Instagram", url: "https://instagram.com/yourhandle" },
-  { label: "LinkedIn", url: "https://linkedin.com/in/yourprofile" },
-  { label: "GitHub", url: "https://github.com/yourusername" },
+  { label: "Email", url: "alejandra.cristina.rivera@students.iaac.net" },
+  { label: "Instagram", url: "https://instagram.com/aleriverazz" },
+  { label: "Portfolio", url: "https://readymag.website/u4096607628/6158905/" },
+  { label: "GitHub Repo", url: "https://github.com/yourusername" },
 ];
