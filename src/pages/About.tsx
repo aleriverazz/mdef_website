@@ -12,9 +12,9 @@ const About = () => {
           ← Home
         </Link>
 
-        <h1 className="mb-8 text-4xl font-bold md:text-5xl">About Me</h1>
+        <h1 className="mb-8 text-2xl font-bold md:text-3xl" style={{ color: "#FF69B4" }}>About Me</h1>
 
-        <div className="space-y-4 text-lg leading-relaxed text-muted-foreground">
+        <div className="space-y-4 text-base leading-relaxed text-muted-foreground">
           {profile.bio.split("\n\n").map((paragraph, i) => (
             <p key={i}>{paragraph}</p>
           ))}
