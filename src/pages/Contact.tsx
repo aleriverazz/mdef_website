@@ -21,9 +21,18 @@ const Contact = () => {
               href={link.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="group block rounded-sm border border-border p-5 transition-all hover:border-primary hover:shadow-md"
+              className="group block rounded-sm border border-transparent p-5 transition-all hover:shadow-md"
             >
-              <span className="text-lg font-medium transition-colors group-hover:text-primary">
+              <span 
+                className="text-lg font-medium transition-colors"
+                style={{ cursor: "pointer" }}
+                onMouseEnter={(e) => {
+                  (e.currentTarget as HTMLElement).style.color = "#00FF14";
+                }}
+                onMouseLeave={(e) => {
+                  (e.currentTarget as HTMLElement).style.color = "inherit";
+                }}
+              >
                 {link.label}
               </span>
               <span className="ml-2 text-sm text-muted-foreground">↗</span>
