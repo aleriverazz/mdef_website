@@ -9,8 +9,8 @@ const Index = () => {
 
       {/* Background placeholder for GIF */}
       <div
-        className="absolute inset-0 bg-cover bg-center opacity-100"
-        style={{ backgroundImage: `url('/images/home-background.png')` }}
+        className="absolute inset-0 bg-cover bg-center opacity-20"
+        style={{ backgroundImage: `url(${import.meta.env.BASE_URL}images/fondo.gif)` }}
       />
 
       <div className="relative z-10 flex flex-1 flex-col items-center justify-center px-6 text-center">
