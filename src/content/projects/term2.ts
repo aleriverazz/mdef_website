@@ -49,9 +49,9 @@ export const term2 = {
     {
       id: "cognitive-orgies",
       title: "cognitive orgies",
-      description1: "★ ★ ★ ★ ★ ★ ★ ★ ★ SIMBIOSIS SIMULATION ENGINE ★ ★ ★ ★ ★ ★ ★ ★ ★",
+      description1: "★ ★ ★ ★ ★ ★ ★ ★ ★ SIMBIOSIS SIMULATION ENGINE ★ ★ ★ ★ ★ ★ ★ ★ ★        This project creates a human–machine interaction system that responds to skin conductance. A sensor measures physiological arousal, an AI agent negotiates with the body, and another agent converts decisions into motor signals.Instead of controlling the body, the system co-regulates with it, maintaining balance and dynamic interaction in real time. The modular design allows adaptation and evolution of strategies without changing hardware.",
       images: ["/images/projects/term-2/cognitive-orgies-1.jpg"],
-      description2: "Link to Repo: https://www.hackster.io/544404/bloombite-697b21"
+      description2: "Link to Repo: https://hackmd.io/@7IGeDoHSQv2FyM2n4piA-g/HyzJOv7vZg"
       // video: ["/images/projects/term-2/situated-design-practices-2.mov"] // OPTIONAL: if your Project type includes a video field, uncomment; otherwise remove or adjust.
     },
     {
