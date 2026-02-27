@@ -49,7 +49,7 @@ export const term2 = {
      {
       id: "cognitive-orgies",
       title: "cognitive orgies",
-      description1: "Cognitive Orgies 1: SIMBIOSIS SIMULATION ENGINE: This project creates a human–machine interaction system that responds to skin conductance. A sensor measures physiological arousal, an AI agent negotiates with the body, and another agent converts decisions into motor signals. Instead of controlling the body, the system co-regulates with it, maintaining balance and dynamic interaction in real time. The modular design allows adaptation and evolution of strategies without changing hardware.",
+      description1: "★ ★ ★ ★ ★ ★ ★ ★ ★ Cognitive Orgies 1: SIMBIOSIS SIMULATION ENGINE ★ ★ ★ ★ ★ ★ ★ ★ ★  This project creates a human–machine interaction system that responds to skin conductance. A sensor measures physiological arousal, an AI agent negotiates with the body, and another agent converts decisions into motor signals. Instead of controlling the body, the system co-regulates with it, maintaining balance and dynamic interaction in real time. The modular design allows adaptation and evolution of strategies without changing hardware.",
       images1: ["/images/projects/term-2/cognitive-orgies.jpg"],
       description2: "Link toHACKMD: (https://hackmd.io/@7IGeDoHSQv2FyM2n4piA-g/HyzJOv7vZg)"
     },
