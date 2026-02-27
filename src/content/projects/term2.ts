@@ -49,9 +49,11 @@ export const term2 = {
      {
       id: "cognitive-orgies",
       title: "cognitive orgies",
-      description1: "Exploring the intersection of design, cognition, and collective intelligence.",
+      description1: "Cognitive Orgies 1: SIMBIOSIS SIMULATION ENGINE: This project creates a human–machine interaction system that responds to skin conductance. A sensor measures physiological arousal, an AI agent negotiates with the body, and another agent converts decisions into motor signals. Instead of controlling the body, the system co-regulates with it, maintaining balance and dynamic interaction in real time. The modular design allows adaptation and evolution of strategies without changing hardware.",
       images: ["/images/projects/term-2/cognitive-orgies.jpg"],
-      description2: ""
+      links: [
+        { label: "LINK TO: HackMD", url: "https://hackmd.io/@7IGeDoHSQv2FyM2n4piA-g/HyzJOv7vZg" }
+      ]
     },
      {
       id: "situated-design-practices",
