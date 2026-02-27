@@ -13,7 +13,7 @@ export const term1 = {
     {
       id: "design-studio-01",
       title: "Design Studio 01",
-      description1: "An exploration of emergent design methodologies through hands-on prototyping and critical reflection. This project examined how we can rethink everyday objects through the lens of sustainability and circularity.",
+      description1: "...",
       images: [
         "/images/projects/term-1/ds01-1.jpg"
       ],
@@ -22,7 +22,7 @@ export const term1 = {
     {
       id: "unpacking-tech-systems",
       title: "Unpacking Tech Systems",
-      description1: "Maiive exercise in foresight and speculative thinking.",
+      description1: "...",
       images: [
         "/images/projects/term-1/aws-1.jpg"
       ],
@@ -40,8 +40,8 @@ export const term1 = {
     },
     {
       id: "Reflections-II---Design-with-others",
-      title:"Reflections II - Design with others",
-      description1: "Introduction to biology and agriculture as design materials. Experiments with biomaterials, living organisms, and regenerative systems.",
+      title:"reflections II - design with others",
+      description1: "...",
       images: [
         "/images/projects/term-1/rfdwo-1.jpg"
       ],
@@ -49,8 +49,8 @@ export const term1 = {
     },
     {
       id: "Extended-Intelligences-I---A-technical-history-of-AI",
-      title: "Extended Intelligences I - A technical history of AI",
-      description1: "Introduction to biology and agriculture as design materials. Experiments with biomaterials, living organisms, and regenerative systems.",
+      title: "extended intelligences I - a technical history of AI",
+      description1: "...",
       images: [
         "/images/projects/term-1/extended-intelligences-1.jpg"
       ],
@@ -58,8 +58,8 @@ export const term1 = {
     },
     {
       id: "Extended-Intelligences-II---Personal-Manifesto",
-      title: "Extended Intelligences II - Personal Manifesto",
-      description1: "Introduction to biology and agriculture as design materials. Experiments with biomaterials, living organisms, and regenerative systems.",
+      title: "extended intelligences II - personal manifesto",
+      description1: "...",
       images: [
         "/images/projects/term-1/extended-intelligences-manifesto-1.jpg"
       ],
@@ -67,8 +67,8 @@ export const term1 = {
     },
     {
       id: "Other-Species-I",
-      title: "Other Species I",
-      description1: "Introduction to biology and agriculture as design materials. Experiments with biomaterials, living organisms, and regenerative systems.",
+      title: "other species I",
+      description1: ".",
       images: [
         "/images/projects/term-1/other-species-1.jpg"
       ],
@@ -76,8 +76,8 @@ export const term1 = {
     },
     {
       id: "Fundamentals-of-Future-Makers",
-      title: "(FUN)damentals of Future Makers",
-      description1: "Introduction to biology and agriculture as design materials. Experiments with biomaterials, living organisms, and regenerative systems.",
+      title: "(FUN)damentals of future makers",
+      description1: "...",
       images: [
         "/images/projects/term-1/fundamentals-of-future-makers-1.jpg"
       ],
