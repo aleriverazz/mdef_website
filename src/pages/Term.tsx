@@ -39,7 +39,7 @@ const Term = () => {
                 {project.title}
               </h2>
               <p className="mt-2 line-clamp-2 text-sm text-muted-foreground">
-                {project.description}
+                {project.description1}
               </p>
             </button>
           ))}
