@@ -14,8 +14,8 @@ export const term2 = {
     {
       id: "narrative-02",
       title: "narrative 02",
-      description1: "...",
-      images: ["/images/projects/term-2/fab-1.jpg"],
+      description1: "★ ★ ★ ★ ★ ★ ★ ★ ★",
+      images: ["/images/projects/term-2/narrative-1.jpg"],
       description2: ""
     },
      {
